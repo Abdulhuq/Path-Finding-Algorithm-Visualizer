@@ -40,4 +40,4 @@ I intend to improve it further and bring in more algorithms like `A*` and `Jump 
 ---
 ## Live Demo
 
-[Live Demo](https://c0deyy.github.io/Path-Finding-Algorithm-Visualizer/)
+[Live Demo](https://abdulhuq.github.io/Path-Finding-Algorithm-Visualizer/)
